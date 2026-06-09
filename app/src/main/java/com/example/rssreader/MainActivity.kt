@@ -1,5 +1,7 @@
 package com.example.rssreader
 
+// BIT/2025/66882 - Mobile App Development
+
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log

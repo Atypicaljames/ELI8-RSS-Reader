@@ -1,4 +1,5 @@
 # ELI8 - RSS Reader
+**BIT/2025/66882 - Mobile App Development**
 
 ELI8 is a modern, social-first RSS and content reader built with **Jetpack Compose**. It features a personalized discovery algorithm, recursive Reddit-style comments, and full offline support with local caching.
 

@@ -1,5 +1,7 @@
 package com.example.rssreader
 
+// BIT/2025/66882 - Mobile App Development
+
 data class Person(
     val firstName: String = "",
     val lastName: String = "",

@@ -1,4 +1,5 @@
 # ELI8 Development Logbook
+**BIT/2025/66882 - Mobile App Development**
 
 This document tracks the evolution, architectural decisions, and feature milestones of the ELI8 RSS Reader project.
 
