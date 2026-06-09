@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674429428570",
+    "project_id": "eli8-499e8",
+    "storage_bucket": "eli8-499e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674429428570:android:b74310b393fd4194358963",
+        "android_client_info": {
+          "package_name": "com.example.rssreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOkV9RtR7vlfmN4ghH6G8AfSeK40MlcbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
